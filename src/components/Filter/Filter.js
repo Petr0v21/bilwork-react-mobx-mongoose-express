@@ -20,9 +20,9 @@ const Filter = () => {
         </div>
         <div className="ButtonsFilter">
           <div className="CleanFilter" onClick={openFilter}>
-            Clean
+            Clean Filter
           </div>
-          <div className="ApllyFilter">Apply</div>
+          <div className="ApllyFilter">Apply </div>
         </div>
       </div>
     </div>
